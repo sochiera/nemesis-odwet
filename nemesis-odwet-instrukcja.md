@@ -32,7 +32,7 @@ Martwi mnie, że podczas odprawy dostaliśmy tak mało informacji. Nie otrzymali
 
 *It bothers me that we were given so little information during the briefing. We received practically no intelligence data. No photos of the base from the outside, no plan of the rooms, only general information about which sectors should be there… And now we're disembarking the ship into a Landing Zone shrouded in darkness. Our brand-new equipment is ready to use, we remain fully alert. The mission objective is clear: eliminate the queen of the Intruders who have taken over this place. Of course, various organizations have their own ways of reaching out with lucrative offers to members of strike teams like ours, so it's quite possible that private objectives are also at play here. One has to stay on guard.*
 
-Wykonuję ruch w nieznane, ale do tego nie wyszkolono mnie nigdy, no końcu jestem skautką. Warto najpierw odszukać i zabezpieczyć **hibernatorium**, bo na koniec może być nasz jedyny sposób na przetrwanie. Udaje mi się prowadzić oddział naprzód, aż do kolejnego pomieszczenia wchodzę do zbytniej pewności siebie. Wewnątrz szaleje **pożar**, płomienie buchają mi prosto w twarz. Zanim zdołałam się wycofać, usłyszałam głos w komunikatorze: „Na twojej zgóbie!".
+Wykonuję ruch w nieznane, ale do tego nie wyszkolono mnie nigdy, w końcu jestem skautką. Warto najpierw odszukać i zabezpieczyć **hibernatorium**, bo na koniec może być nasz jedyny sposób na przetrwanie. Udaje mi się prowadzić oddział naprzód, aż do kolejnego pomieszczenia wchodzę do zbytniej pewności siebie. Wewnątrz szaleje **pożar**, płomienie buchają mi prosto w twarz. Zanim zdołałam się wycofać, usłyszałam głos w komunikatorze: „Za tobą!".
 
 *I'm moving into the unknown, but I was never trained for this — after all, I'm a scout. It's worth first finding and securing the Hibernatorium, since in the end it may be our only way to survive. I manage to lead the squad forward, until entering the next room with too much confidence. Inside, a fire is raging, flames blast straight into my face. Before I could pull back, I heard a voice over the comm: "Behind you!"*
 
@@ -40,7 +40,7 @@ Widzę je. Cztery **dorosłe osobniki** jak istoty z piekła rodem. Stoją w kor
 
 *I see them. Four Adults, like creatures straight out of hell. They're standing in the corridor between me and the rest of the squad. Everything happens very fast — I raise my assault rifle and let off a burst, pumping half my ammo into their disgusting faces. At least one of them goes down. I dash through the flames toward the exit on the other side of the room. The squad will have to handle the rest without me. I push on alone, to search the base's dark corners. Alone, I hope… Not that I'm complaining — working solo has its advantages.*
 
-Wchodzę do **sektora B** i znajduję korytarz prowadzący do **Hibernatorium**. Niestety napotykam przeszkodę w postaci **zamknietych drzwi**. Tymczasem pojawia się kolejny intruz zwabiony **szmerami**. Znowu szykuję karabin, ale seria na oślep byłaby zbyt ryzykowna – bestia za szybko się przemieszcza. Mierzę do niej i precyzyjnie **oddaję strzały**. W końcu intruz pada, a tak udało mi się zostawić na moim ramieniu okropne **zadrapanie**.
+Wchodzę do **sektora B** i znajduję korytarz prowadzący do **Hibernatorium**. Niestety napotykam przeszkodę w postaci **zamkniętych drzwi**. Tymczasem pojawia się kolejny intruz zwabiony **szmerami**. Znowu szykuję karabin, ale seria na oślep byłaby zbyt ryzykowna – bestia za szybko się przemieszcza. Mierzę do niej i precyzyjnie **oddaję strzały**. W końcu intruz pada, a tak udało mi się zostawić na moim ramieniu okropne **zadrapanie**.
 
 *I enter Sector B and find a corridor leading to the Hibernatorium. Unfortunately I run into an obstacle in the form of a locked door. Meanwhile another Intruder appears, drawn in by the noise. I ready my rifle again, but a blind burst would be too risky — the beast moves too fast. I aim at it and fire precise shots. The Intruder finally drops, though it manages to leave a nasty scratch on my arm.*
 
@@ -64,9 +64,9 @@ Jak zwykle docieram na miejsce pierwsza. **Prom ratunkowy** nasza ostatnia nadzi
 
 *As usual, I'm the first to reach the spot. The Escape Shuttle, our last hope, sits in the dock. I try to ignore the unbearable pain shooting through my whole body. There's not much I can do now about my serious wounds, since the surgical bay is on the other side of the base. I don't even think about using a med-kit.*
 
-Chwilę po dotarciu na miejsce pierwsza Pieprzona ratowniczka medyczna, ale wszystkich innych ratuje przed czymś. Bierze w sobie trochę zasobów, a może żale pilnować okolicy. Cóż, ja na jestem taką bohaterką. „Co, do cholery, wyprawiasz?!" – wrzeszczę do korpo. Ale Zdobyłam nawet więcej, niż uzgodniliśmy. Mam dwie próbki. Obyście mieli odpowiednie procedury zabezpieczania takich robali jak ten, którego mam – jak ten, którym jestem. Bo jeśli nie… to cóż, fakt, że „dla dobra firmy” ustawiliście domyślne koordynaty promu z powrotem na Ziemię, może się okazać niezłym żartem.
+Chwilę po moim przybyciu zjawia się też pieprzona ratowniczka medyczna, ale to ona ratuje resztę oddziału przed czymś znacznie gorszym. Sama bierze dla siebie trochę zasobów, może jeszcze zostanie, żeby popilnować okolicy. Cóż, ja nie jestem taką bohaterką. „Co, do cholery, wyprawiasz?!" – wrzeszczę do korpo.
 
-*Mercenary medic shows up. I shoot the remaining ones with mercy. I take some of the supplies, maybe keep watch over the area for a while. Well, I'm no such hero. "What the hell are you doing?!" — I yell at corpo. Either way, I got even more than we'd agreed on. I have two samples. You'd better have proper procedures for containing creepy-crawlies like this one — like the one I am. Because if you don't… well, the fact that "for the good of the company" you left the shuttle's default coordinates set back to Earth might turn out to be quite the joke.*
+*Shortly after I arrive, the damned medic shows up too, but it's her who saves the rest of the squad from something far worse. She helps herself to some supplies, maybe she'll even stick around to keep watch over the area. Well, I'm no such hero. "What the hell are you doing?!" — I yell at corpo.*
 
 Pieprzona ratowniczka medyczna. Skąd wiedziała? Czuję to. Porusza się wewnątrz mnie i szybko rośnie. Nie zostało mi wiele czasu, prawda? Dobra, ojciec nigdy nie był ze mnie dumny, ale przynajmniej będzie dzięki mnie bogaty. Ustawię go do końca życia. To powinno sprawić, że stary drań poczuje się jeszcze gorzej… Słyszycie mnie tam, szychy z korpo? Zróbcie przelew i jeszcze trochę dorzućcie. Zdobyłam nawet więcej, niż uzgodniliśmy. Mam dwie próbki. Obyście mieli odpowiednie procedury zabezpieczania takich robali jak ten, którego mam – jak ten, którym jestem. Bo jeśli nie… to cóż, fakt, że „dla dobra firmy” ustawiliście domyślnie koordynaty promu z powrotem na Ziemię, może się okazać niezłym żartem.
 
@@ -1733,7 +1733,7 @@ Na niektórych korytarzach widoczne są oznaczenia drzwi reprezentujące otwarte
 
 *Some Corridors display door markings representing open doors. Doors can be closed by means of effects. A door token is then placed on the door marking.*
 
-Pomieszczenie i korytarz połączone zamknietymi drzwiami nadal do siebie przylegają. Podobnie 2 pomieszczenia z zamknietymi drzwiami między nimi nadal ze sobą sąsiadują. Zamknięte drzwi wprowadzają jednak pewne ograniczenia, np. uniemożliwiają ruch i oddanie serii.
+Pomieszczenie i korytarz połączone zamkniętymi drzwiami nadal do siebie przylegają. Podobnie 2 pomieszczenia z zamkniętymi drzwiami między nimi nadal ze sobą sąsiadują. Zamknięte drzwi wprowadzają jednak pewne ograniczenia, np. uniemożliwiają ruch i oddanie serii.
 
 *A Room and a Corridor connected by a closed door are still adjacent to each other. Likewise, 2 Rooms with a closed door between them are still adjacent to one another. Closed doors, however, introduce certain restrictions, e.g. they prevent movement and firing a burst.*
 
@@ -1756,11 +1756,11 @@ Postać może oddać serię w **zaznaczonych intruzów** w **korytarzu C**. Intr
 ### BLOKOWANIE DROGI
 ### BLOCKING THE WAY
 
-Zamknięte drzwi blokują dostęp do wszystkiego, co znajduje się po drugiej stronie (z wyjątkiem znaczników szmerów). Postacie nie mogą wykonywać żadnych akcji, które wpływałyby na obiekty za zamknietymi drzwiami.
+Zamknięte drzwi blokują dostęp do wszystkiego, co znajduje się po drugiej stronie (z wyjątkiem znaczników szmerów). Postacie nie mogą wykonywać żadnych akcji, które wpływałyby na obiekty za zamkniętymi drzwiami.
 
 *A closed door blocks access to everything on the other side (with the exception of Noise markers). Characters cannot perform any actions that would affect objects behind a closed door.*
 
-*Uwaga! Efekty, które mówią wprost o dowolnym obiekcie w bazie, np. ruch do dowolnego pomieszczenia w bazie, działają niezależnie od zamknietych drzwi – postać może przenieść się nawet do pomieszczenia, które ma z każdej strony zamknięte drzwi. Te efekty pozwalają dotrzeć do pomieszczenia w inny sposób, np. szybem wentylacyjnym.*
+*Uwaga! Efekty, które mówią wprost o dowolnym obiekcie w bazie, np. ruch do dowolnego pomieszczenia w bazie, działają niezależnie od zamkniętych drzwi – postać może przenieść się nawet do pomieszczenia, które ma z każdej strony zamknięte drzwi. Te efekty pozwalają dotrzeć do pomieszczenia w inny sposób, np. szybem wentylacyjnym.*
 
 *Note! Effects that explicitly refer to any object on the base, e.g. moving to any Room on the base, function independently of closed doors – a Character can move even to a Room that has closed doors on every side. These effects allow reaching the Room by another route, e.g. through a ventilation shaft.*
 
@@ -3442,9 +3442,9 @@ W trybie kooperacyjnym **Gabinet chirurgiczny** został wyposażony w nowoczesne
 
 *In co-op mode, the **Surgery Room** has been equipped with a modern device called AutoDoc, which restores the vital functions of characters who are on the border between life and death.*
 
-Gdy któraś z postaci umrze, gracz, który ją obsługiwał, jej figurkę należy położyć, a wszystkie przedmioty znajdujące się na granicy życia i śmierci, może przesunąć też figurkę nieżyjącej postaci. Aby to zrobić, musi odrzucić 1 dodatkową kartę akcji.
+Gdy któraś z postaci umrze, jej figurka pozostaje w pomieszczeniu, w którym zginęła. Gdy inna postać zakończy swoją turę w tym pomieszczeniu, może przenieść figurkę zmarłej postaci do sąsiedniego pomieszczenia. Aby to zrobić, musi odrzucić 1 dodatkową kartę akcji.
 
-*When a character dies, the figure of that dead character should be moved to the room where the Surgery Room is located, when another character is present in that room and ends their turn there, they may move the dead character's figure too. To do this, they must discard 1 additional action card.*
+*When a character dies, their figure remains in the room where they died. When another character ends their turn in that room, they may also move the dead character's figure to an adjacent room. To do this, they must discard 1 additional action card.*
 
 Jeśli na początku rundy figurka nieżyjącej postaci znajduje się w Gabinecie chirurgicznym (i nie ma w tym pomieszczeniu ani intruzów ani znacznika awarii), gracz stawia ją na granicy życia i śmierci, odrzuca wszystkie karty głębokich ran i umieszcza znacznik zdrowia na 1. od lewej polu w sekcji „stan krytyczny” toru zdrowia postaci.
 
